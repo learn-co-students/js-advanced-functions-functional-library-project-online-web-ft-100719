@@ -92,13 +92,6 @@ const fi = (function() {
       // ??? 
     },
 
-    uniq: ( array, isSorted, callback) => {
-      if (isSorted) {
-        
-      }
-    }
-
-
   }
 })()
 
